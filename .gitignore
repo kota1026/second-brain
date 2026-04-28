@@ -1,0 +1,18 @@
+# Obsidian local state (personal, machine-specific)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/cache/*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Optional: Obsidian attachments downloaded locally (uncomment if you don't want to commit them)
+# raw/assets/
